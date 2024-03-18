@@ -1,0 +1,15 @@
+import stockActions from './actions'
+import stockGetters from './getters'
+import stockMutations from './mutations'
+
+export default {
+  state() {
+    return {
+      stock: [],
+    }
+  },
+
+  mutations: stockMutations,
+  getters: stockGetters,
+  actions: stockActions
+}

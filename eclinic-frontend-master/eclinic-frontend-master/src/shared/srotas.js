@@ -1,0 +1,15 @@
+export default [
+  'Pranavaha Srotas',
+  'Annavaha Srotas',
+  'Udakavaha Srotas',
+  'Rasavaha Srotas',
+  'Raktavaha Srotas',
+  'Mamsavaha Srotas',
+  'Medovaha Srotas',
+  'Asthivaha Srotas',
+  'Majjavaha Srotas',
+  'Shukravaha Srotas',
+  'Mutravaha Srotas',
+  'Purishavaha Srotas',
+  'Swedavaha Srotas',
+]
